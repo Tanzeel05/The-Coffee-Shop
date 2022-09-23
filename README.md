@@ -11,8 +11,6 @@ After Completion Of Installation of Xampp create a database in which it's(Wordpr
 After the completion of above process you have download wordpress form it's offical website (Worpress.org)
 Download and Extract it's files
 
-**SETTING UP WORDPRESS **
-
 **XAMPP's FOLDER**
 
 Xampp > htdocs

@@ -43,8 +43,12 @@ try to resolve that error.
 
 **SOME IMPORTANT LINKS**
 
-https://wordpress.org/\n
+https://wordpress.org/
+
+
 https://www.apachefriends.org/download.html
+
+
 https://www.phpmyadmin.net/
 
 

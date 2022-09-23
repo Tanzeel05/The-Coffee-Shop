@@ -10,8 +10,9 @@ DOWNLOADING WORDPRESS
 After the completion of above process you have download wordpress form it's offical website (Worpress.org)
 Download and Extract it's files
 
-XAMPP>htdocs
+XAMPP's FOLDER
 
+Xampp > htdocs
 Make sure that you download all your files in (Xampp>htdocs) folder.
 Otherwise It will not workout your way.
 

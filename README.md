@@ -11,6 +11,7 @@ After Completion Of Installation of Xampp create a database in which it's(Wordpr
 After the completion of above process you have download wordpress form it's offical website (Worpress.org)
 Download and Extract it's files
 
+**SETTING UP WORDPRESS **
 
 **XAMPP's FOLDER**
 
@@ -34,12 +35,19 @@ Open Google Chrome.
 **SEARCHING ON GOOGLE CHROME**
 
 Search with the exact same name with which the file is saved in your xampp's ht docs folder
+If it worked out then
+Congratulations!
+If not then
+try to resolve that error.
 
 
 
 
 **SOME IMPORTANT LINKS**
 
+https://wordpress.org/
+https://www.apachefriends.org/download.html
+https://www.phpmyadmin.net/
 
 
 

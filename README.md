@@ -43,7 +43,7 @@ try to resolve that error.
 
 **SOME IMPORTANT LINKS**
 
-https://wordpress.org/
+https://wordpress.org/\n
 https://www.apachefriends.org/download.html
 https://www.phpmyadmin.net/
 

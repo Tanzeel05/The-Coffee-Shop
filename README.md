@@ -2,21 +2,24 @@
 
 DOWNLOADING XAMPP
 
-First Of All You Have To Download Xampp.
+First of all you have to download xampp.
 After Completion Of Installation of Xampp create a database in which it's(Wordpress) database can be stored.
+
 
 DOWNLOADING WORDPRESS
 
 After the completion of above process you have download wordpress form it's offical website (Worpress.org)
 Download and Extract it's files
 
-XAMPP's FOLDER
+
+XAMPP's FOLDER:
 
 Xampp > htdocs
 Make sure that you download all your files in (Xampp>htdocs) folder.
 Otherwise It will not workout your way.
 
-MOST IMPORTANT PROCESS
+
+**MOST IMPORTANT PROCESS**
 
 After extracting the files you can replace the files (You Downloaded) With the one (I Have Given).
 After replacing those files.
